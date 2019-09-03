@@ -41,7 +41,8 @@ public class Finale {
     public String youWon() {
         this.text = "\nYou successfully made it to the Four Seasons hotel and to "
                     + "Marissa before midnight. \nCongratulations for your triumphs!! You have "
-                    + "been a hero once more and your \nrelationship with Marissa will live to fight another day.\n";
+                    + "been a hero once more and your \nrelationship with Marissa will live to fight another day.\n"
+                    +" You also gain the opportunity to jizz on her chest.";
         return this.text;
     }
 }
