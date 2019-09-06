@@ -6,3 +6,4 @@ A text based adventure based around a scene from "The OC"
   improving this version or start the port to android so I can get some experience at that.
 
 Author: Ryan Shoultz
+Real Author: Phi Nguyen
